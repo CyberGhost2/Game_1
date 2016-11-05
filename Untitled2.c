@@ -4,7 +4,7 @@
 int main(int argc, char *argv[]) //Main Section
 {
     ///Main Screen S-1&2
-    int inp1; //glavni ekran, ekran koji se dobija na pokretanju programa
+    int inp1; //Glavni ekran, ekran koji se dobija na pokretanju programa
 
     printf("\nIzaberite jednu od dvije opcije:\n\n");
     printf("[1] Pokrenuti Igricu\n");
