@@ -1,0 +1,14 @@
+//Jednostavi program
+
+#include <stdio.h>
+
+int main ()
+{
+int a, b, c, inp1;
+a=10;
+scanf("%d", &inp1);
+
+
+printf("Broj je: %d\n", c);
+return 0;
+}
