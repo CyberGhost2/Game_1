@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main ()
+{
+printf("Ovo je rijec jedan\n");
+printf("Ovo je rijec dva\n");
+
+return 0;
+}
