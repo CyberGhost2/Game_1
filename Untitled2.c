@@ -74,7 +74,7 @@ int main(int argc, char *argv[]) //Main Section
                      printf("[1] Zelena.\n"); //<----  Ovaj dio koda ne radi > switch (inp5), case 1.
                      printf("[2] Crvena.\n");
                      scanf("%d", &inp5);
-                     getchar();//Napomena getchar nemoze ici izmedju printf i scanf, rezulat bude "insert character-infinite".
+                     getchar();//Napomena getchar ne moze ici izmedju printf i scanf, rezulat bude "insert character-infinite".
 
                                switch (inp5) //Switch 1b, Pobjeci-Vrata
                               {case 1: //Zelena l3
