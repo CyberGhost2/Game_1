@@ -2,12 +2,26 @@
 
 #include <stdio.h>
 
+void broj(int *a);
+int c;
+
+c=10;
+printf("Broj a je: %d\n", a)
+
+int *a -= c;
+printf("Broj a je: %d\n", a)
+
 int main ()
 {
 int a, b, c, inp1;
-a=10;
-scanf("%d", &inp1);
+a=20;
 
+printf("Unesite broj 1-10: \n")
+scanf("%d", &inp1);
+inp1=b;
+
+broj(&a)
+c = a - b;
 
 printf("Broj je: %d\n", c);
 return 0;
