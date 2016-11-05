@@ -4,6 +4,13 @@
 int main();
 {
     int a, b;
+    a=5;
     
-   printf("Unesite broj od 1 do 10");
+   printf("Unesite broj od 1 do 10\n\n}");
+   scanf("%d", b);
+   
+   b+=a;
+   
+   printf("Broj je: %d", b);
+   return 0;
 }
