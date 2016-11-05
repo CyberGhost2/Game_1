@@ -1,0 +1,12 @@
+//jednostavi program
+
+#include <stdio.h>
+int main ()
+{
+printf("Rijec1\n");
+getchar()
+printf("Rijec2");
+getchar()
+
+
+}
