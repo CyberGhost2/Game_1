@@ -9,8 +9,10 @@ int main()
 
     int a, b, c;
 
-    puts("Enter the two numbers you want to add: ");
-    scanf("%d %d", &a, &b);
+    fputs("Enter the first number: ", stdout);
+    scanf("%d", &a);
+    fputs("Enter the second number: ", stdout);
+    scanf("%d", &b);
 
     c = a + b;
 
