@@ -1,5 +1,5 @@
-/* Program for doing multiple calculations fot two numbers
- *Author: Semin Skodric Novalic
+/* Program for doing multiple calculations
+*Author: Semin Skodric Novalic
 */
 
 #include <stdio.h>
